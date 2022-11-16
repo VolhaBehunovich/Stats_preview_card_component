@@ -322,6 +322,7 @@ span {
     font-weight: 400;
     text-align: center;
     font-family: 'Lexend Deca', sans-serif;
+    color: var(--white-stat-headings);
 }
 
 @media (max-width:405px) {
@@ -338,10 +339,6 @@ span {
     .attribution a {
         font-size: 9px;
     }
-}
-
-.attribution {
-    color: var(--white-stat-headings);
 }
 
 .attribution a:hover {
